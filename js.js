@@ -19,5 +19,8 @@ for (let i = 0; i < arr.length; i++) {
 
 }
 
+let stepen = product ** 3;
+
 console.log('Произведение цифр числа ' + x + ' = ' + product);
+console.log('Произведение цифр числа ' + x + ' в 3 степени  = ' + stepen);
 
